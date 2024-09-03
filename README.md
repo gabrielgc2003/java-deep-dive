@@ -7,23 +7,23 @@ This repository is a collection of projects and examples that dive deep into adv
 ### 1. Java Concurrency
 Explore multithreading, synchronization, and process management in Java. Learn how to handle concurrency issues and implement solutions using frameworks like Java Concurrent and Akka.
 
-- **/threads**: Basic examples of creating and managing threads.
-- **/synchronization**: Techniques for synchronizing threads, using `synchronized`, `Lock`, and `Semaphore`.
-- **/deadlocks**: Examples of deadlocks and strategies to avoid them.
-- **/frameworks**: Implementations using Java Concurrent and Akka.
+- **threads**: Basic examples of creating and managing threads.
+- **synchronization**: Techniques for synchronizing threads, using `synchronized`, `Lock`, and `Semaphore`.
+- **deadlocks**: Examples of deadlocks and strategies to avoid them.
+- **frameworks**: Implementations using Java Concurrent and Akka.
 
 ### 2. Java 8+
 Discover new features introduced in Java 8 and beyond, such as lambdas, streams, `Optional`, and functional interfaces. Learn how to use immutable collections and other enhancements to write cleaner, more efficient code.
 
-- **/lambdas-and-streams**: Usage examples of lambdas, streams, `Optional`, and functional interfaces.
-- **/immutable-collections**: Demonstrations of using immutable collections and best practices.
+- **lambdas-and-streams**: Usage examples of lambdas, streams, `Optional`, and functional interfaces.
+- **immutable-collections**: Demonstrations of using immutable collections and best practices.
 
 ### 3. Design Patterns
 Implement and understand the most common design patterns in Java, including Factory, Singleton, Observer, Strategy, and more. Each pattern is illustrated with practical examples that can be applied in real-world projects.
 
-- **/creational**: Patterns like Factory and Singleton.
-- **/behavioral**: Implementations of patterns like Observer and Strategy.
-- **/structural**: Examples of structural patterns such as Adapter and Composite.
+- **creational**: Patterns like Factory and Singleton.
+- **behavioral**: Implementations of patterns like Observer and Strategy.
+- **structural**: Examples of structural patterns such as Adapter and Composite.
 
 ## How to Use
 
